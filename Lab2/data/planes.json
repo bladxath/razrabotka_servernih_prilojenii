@@ -1,0 +1,16 @@
+[
+    {
+        "type": "passenger",
+        "model": "Boeing 737",
+        "flight_range": 5600,
+        "fuel_consumption": 2600,
+        "passenger_capacity": 160
+    },
+    {
+        "type": "cargo",
+        "model": "Antonov An-124",
+        "flight_range": 4800,
+        "fuel_consumption": 12000,
+        "cargo_capacity": 150
+    }
+]
